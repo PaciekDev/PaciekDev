@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaciekDev
 - 👀 I’m interested in ... Front-End Development
-- 🌱 I’m currently learning ... JS, React
+- 🌱 I’m currently learning ... JS, Svelte
 - 💞️ I’m looking to collaborate on ... Open Source web projects
 - 📫 How to reach me ... via gh
 
